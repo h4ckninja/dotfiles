@@ -1,0 +1,9 @@
+[core]
+	excludesfile = ~/.gitignore_global
+[winUpdater]
+	recentlySeenVersion = 2.25.0.windows.1
+[user]
+	name = h4ckNinja
+	email = h4ckninja@users.noreply.github.com
+[github]
+	user = h4ckninja
